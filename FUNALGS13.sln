@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadenas", "cadenas\cadenas.csproj", "{80D4FBB9-FC40-4E6E-8055-9CAF9D6DAA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clasesyarreglos", "clasesyarreglos\clasesyarreglos.csproj", "{8FB2F83A-9E5B-4E2E-A069-DABC4835B12F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D4FBB9-FC40-4E6E-8055-9CAF9D6DAA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D4FBB9-FC40-4E6E-8055-9CAF9D6DAA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D4FBB9-FC40-4E6E-8055-9CAF9D6DAA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D4FBB9-FC40-4E6E-8055-9CAF9D6DAA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB2F83A-9E5B-4E2E-A069-DABC4835B12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB2F83A-9E5B-4E2E-A069-DABC4835B12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB2F83A-9E5B-4E2E-A069-DABC4835B12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB2F83A-9E5B-4E2E-A069-DABC4835B12F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06AB08CB-2859-4EED-8486-B4AE6C998A97}
+	EndGlobalSection
+EndGlobal
